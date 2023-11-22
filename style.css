@@ -1073,8 +1073,6 @@ progress::-webkit-progress-value {
         display: none;
     }
 
-    /* End header */
-
     #sobre-mim .service-bottom .service-item {
         flex-basis: 22%;
         margin: 1.5%;
